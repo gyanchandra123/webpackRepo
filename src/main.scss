@@ -1,3 +1,4 @@
-$primary: teal;
-$danger: purple;
-@import "~bootstrap/scss/bootstrap";
+//overriding the color variable present inside the bootstrap/scss/bootstrap.scss.
+$primary:teal;
+$danger:rgb(255, 0, 179);
+@import "~bootstrap/scss/bootstrap";/* node_modules\bootstrap\scss\bootstrap.scss */
