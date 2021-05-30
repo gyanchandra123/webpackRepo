@@ -20,6 +20,9 @@ console.log("running from the index.js----3");
 console.log("running from the index.js----3");
 console.log("running from the index.js----3");
 console.log("running from the index.js----2");
+console.log("running from the index.js----2");
  
- 
-
+console.log("running from the index.js----3");
+console.log("running from the index.js----3");
+console.log("running from the index.js----2");
+console.log("running from the index.js----2");
