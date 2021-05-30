@@ -11,3 +11,15 @@ run(alertService, componentService);
 console.log("running from the index.js");
 
 alert("hello from the index.js ");
+console.log("running from the index.js----2");
+
+console.log("running from the index.js----3");
+console.log("running from the index.js----3");
+console.log("running from the index.js----3");
+console.log("running from the index.js----3");
+console.log("running from the index.js----3");
+console.log("running from the index.js----3");
+console.log("running from the index.js----2");
+ 
+ 
+
