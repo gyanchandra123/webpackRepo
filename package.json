@@ -5,11 +5,13 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "css-loader": "^5.2.6",
+    "style-loader": "^2.0.0",
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.0"
   },
   "scripts": {
-      "start": "webpack --config webpack.config.js"
+    "start": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
